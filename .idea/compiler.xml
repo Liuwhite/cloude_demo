@@ -26,5 +26,8 @@
         <module name="cloud-consumer-feign-order80" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-config-client-3366" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
